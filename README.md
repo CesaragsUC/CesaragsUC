@@ -20,7 +20,6 @@
  <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" style="max-width: 100%;">
   <img width="30" height="30" src="https://i.imgur.com/5ruv0D6.png" style="max-width: 100%;"></img>
 <img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" style="max-width: 100%;"></img>
-<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" tyle="max-width: 100%;"></img>
 <img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"></img>
 <img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></img>
 <img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" style="max-width: 100%;"></img>
