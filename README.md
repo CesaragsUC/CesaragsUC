@@ -10,19 +10,23 @@
 
 <div style="display:inline_block">
   </br>
-  <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
-   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
-   <img align="center" alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"></img>
-   <img align="center" alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></img>
-  <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
-    <img align="center" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
-     <img align="center" alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
-     <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></img>
-     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
-     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
-     <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-     <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
-     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
-     <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
+  <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
+  <img width="30" height="30" src="https://user-images.githubusercontent.com/90349332/142704901-1d3ca9b3-2011-4195-88b6-4c1cbc09f47e.png" style="max-width: 100%;">
+ <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" style="max-width: 100%;">
+ <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/rabbitmq/rabbitmq-original.svg" style="max-width: 100%;">
+ <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
+  <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" style="max-width: 100%;">
+ <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/sqldeveloper/sqldeveloper-plain.svg" style="max-width: 100%;">
+ <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" style="max-width: 100%;">
+  <img width="30" height="30" src="https://i.imgur.com/5ruv0D6.png" style="max-width: 100%;"></img>
+<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" style="max-width: 100%;"></img>
+<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" tyle="max-width: 100%;"></img>
+<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"></img>
+<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></img>
+<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" style="max-width: 100%;"></img>
+<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" style="max-width: 100%;"></img>
+<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></img>
+<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;"></img>
+<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" style="max-width: 100%;"></img>
+<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" style="max-width: 100%;"></img>
  </div>
