@@ -10,22 +10,23 @@
 
 <div style="display:inline_block">
   </br>
-  <img width="30" height="30" alt="C#" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
-  <img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;"></img>
-<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" style="max-width: 100%;"></img>
-   <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" style="max-width: 100%;">
-  <img width="30" height="30" src="https://user-images.githubusercontent.com/90349332/142704901-1d3ca9b3-2011-4195-88b6-4c1cbc09f47e.png" style="max-width: 100%;">
- <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" style="max-width: 100%;">
- <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/rabbitmq/rabbitmq-original.svg" style="max-width: 100%;">
- <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
-  <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" style="max-width: 100%;">
- <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/sqldeveloper/sqldeveloper-plain.svg" style="max-width: 100%;">
-  <img width="30" height="30" src="https://i.imgur.com/5ruv0D6.png" style="max-width: 100%;"></img>
-<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" style="max-width: 100%;"></img>
-<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"></img>
-<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></img>
-<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" style="max-width: 100%;"></img>
-<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" style="max-width: 100%;"></img>
-<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></img>
-<img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" style="max-width: 100%;"></img>
+  <img width="50" height="50" alt="C#" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;"></img>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" style="max-width: 100%;"></img>
+   <img width="50" height="50" src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" style="max-width: 100%;">
+  <img width="50" height="50" src="https://user-images.githubusercontent.com/90349332/142704901-1d3ca9b3-2011-4195-88b6-4c1cbc09f47e.png" style="max-width: 100%;">
+ <img width="50" height="50" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" style="max-width: 100%;">
+ <img width="50" height="50" src="https://github.com/devicons/devicon/raw/master/icons/rabbitmq/rabbitmq-original.svg" style="max-width: 100%;">
+ <img width="50" height="50" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
+  <img width="50" height="50" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" style="max-width: 100%;">
+ <img width="50" height="50" src="https://github.com/devicons/devicon/raw/master/icons/sqldeveloper/sqldeveloper-plain.svg" style="max-width: 100%;">
+  <img width="50" height="50" src="https://i.imgur.com/5ruv0D6.png" style="max-width: 100%;"></img>
+  <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-plain-wordmark.svg" style="max-width: 100%;"></img> 
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" style="max-width: 100%;"></img>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"></img>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></img>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" style="max-width: 100%;"></img>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" style="max-width: 100%;"></img>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></img>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" style="max-width: 100%;"></img>
  </div>
