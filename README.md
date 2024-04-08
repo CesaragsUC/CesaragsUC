@@ -10,7 +10,7 @@
 
 <div style="display:inline_block">
   </br>
-  <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
+  <img width="30" height="30" alt="C#" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
   <img width="30" height="30" src="https://user-images.githubusercontent.com/90349332/142704901-1d3ca9b3-2011-4195-88b6-4c1cbc09f47e.png" style="max-width: 100%;">
  <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" style="max-width: 100%;">
  <img width="30" height="30" src="https://github.com/devicons/devicon/raw/master/icons/rabbitmq/rabbitmq-original.svg" style="max-width: 100%;">
